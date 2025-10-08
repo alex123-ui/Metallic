@@ -2,6 +2,7 @@
   "name": "metallic",
   "version": "2.1.0",
   "description": "A powerful web proxy built for speed and customization.",
+  "packageManager": "pnpm@8.15.5",
   "repository": "https://github.com/cognetwork-dev/Metallic",
   "license": "AGPL-3.0-only",
   "author": "Nebelung",
